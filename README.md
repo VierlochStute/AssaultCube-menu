@@ -11,6 +11,6 @@
 
 # Screenshot
 
-![alt text]((https://i.imgur.com/fLr59GL.png))
+![alt text](https://i.imgur.com/fLr59GL.png)
 
 
