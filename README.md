@@ -1,4 +1,4 @@
-# Assault Cube Menu WIP
+# Assault Cube Menu read/write
 
 ⚠️ This code serves solely for educational purposes
 
